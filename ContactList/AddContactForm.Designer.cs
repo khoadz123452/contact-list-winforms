@@ -81,7 +81,7 @@
             // 
             // txtEmail
             // 
-            this.txtEmail.Location = new System.Drawing.Point(173, 218);
+            this.txtEmail.Location = new System.Drawing.Point(173, 220);
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(182, 20);
             this.txtEmail.TabIndex = 4;
@@ -89,11 +89,11 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(116, 221);
+            this.label3.Location = new System.Drawing.Point(119, 226);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(32, 13);
+            this.label3.Size = new System.Drawing.Size(31, 13);
             this.label3.TabIndex = 5;
-            this.label3.Text = "Email";
+            this.label3.Text = "email";
             // 
             // AddContactForm
             // 
